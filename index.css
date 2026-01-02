@@ -1,0 +1,14 @@
+/* 
+  NOTE: Since we are using the CDN version for the preview, 
+  the styles have been moved to the <style> block in index.html.
+  
+  In a local environment with a build step (npm run dev), 
+  you would place the @import "tailwindcss"; here.
+*/
+
+body {
+  background-color: #0a0a12; /* Fallback */
+  color: #ffffff;
+  overflow-x: hidden;
+  margin: 0;
+}
